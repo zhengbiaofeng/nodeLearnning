@@ -1,0 +1,9 @@
+{
+    "name": "xxx",
+    "version": "0.0.0",
+    "dependencies": {
+        "ejs": "^2.6.1",
+        "formidable": "^1.2.1",
+        "uuid": "^3.3.2"
+    }
+}
